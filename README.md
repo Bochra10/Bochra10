@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I am an early bird🌅**
 
+- 🆕 My last project **<a href="https://bochra10.github.io/meme-generator/">Meme Generator</a>**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bochra-arfaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bochra-arfaoui" height="30" width="40" /></a>
