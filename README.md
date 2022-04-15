@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💡 I am interested in **Data Science**.
-
 - 📫 How to reach me **bochra.arfaoui@insat.ucar.tn**
 
 - ⚡ Fun fact **I am an early bird🌅**
