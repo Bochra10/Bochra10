@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am an early bird🌅**
 
-- 🆕 My last project **<a href="https://bochra10.github.io/meme-generator/">Meme Generator</a>**
+- 🆕 My last project **<a href="https://bochra10.github.io/my-notes/">A note taking website</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
